@@ -2,7 +2,7 @@
 
 ## Project Structure
 ```
-World_Happiness_Report_2023_Analysis/
+COVID-19-Global-Impact-Analysis/
 │
 ├── COVID-19 Data Cleaning & Global Impact Analysis   # Main analysis notebook
 ├── README.md                                         # Project documentation
