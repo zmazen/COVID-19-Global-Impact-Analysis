@@ -7,7 +7,7 @@ COVID-19-Global-Impact-Analysis/
 ├── COVID-19 Data Cleaning & Global Impact Analysis   # Main analysis notebook
 ├── README.md                                         # Project documentation
 ├── app.py                                            # Streamlit dashboard  
-└── owid-covid-data                                   # Dataset
+└── owid-covid-data.csv                               # Dataset
 ```
 
 ## Tools
