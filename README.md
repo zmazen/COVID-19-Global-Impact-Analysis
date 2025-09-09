@@ -4,7 +4,9 @@
 This project explores global COVID-19 data from **Our World in Data (OWID)** to understand pandemic trends, country-level impacts, and the relationship between socio-economic indicators and COVID-19 outcomes. The goal is to provide a **clean dataset** and **insightful visualizations** suitable for portfolio presentation.
 
 ## Tools
-Python, Pandas, Plotly Express
+- Python
+- Pandas
+- Plotly Express
 
 ## Dataset
 The dataset includes:
