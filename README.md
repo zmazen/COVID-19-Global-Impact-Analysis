@@ -1,7 +1,14 @@
 # Global COVID-19 Data Analysis
 
-## Project Overview
-This project explores global COVID-19 data from **Our World in Data (OWID)** to understand pandemic trends, country-level impacts, and the relationship between socio-economic indicators and COVID-19 outcomes. The goal is to provide a **clean dataset** and **insightful visualizations** suitable for portfolio presentation.
+## Project Structure
+```
+World_Happiness_Report_2023_Analysis/
+│
+├── COVID-19 Data Cleaning & Global Impact Analysis   # Main analysis notebook
+├── README.md                                         # Project documentation
+├── app.py                                            # Streamlit dashboard  
+└── owid-covid-data                                   # Dataset
+```
 
 ## Tools
 - Python
@@ -13,6 +20,9 @@ This project explores global COVID-19 data from **Our World in Data (OWID)** to 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+## Project Overview
+This project explores global COVID-19 data from **Our World in Data (OWID)** to understand pandemic trends, country-level impacts, and the relationship between socio-economic indicators and COVID-19 outcomes. The goal is to provide a **clean dataset** and **insightful visualizations** suitable for portfolio presentation.
 
 ## Dataset
 The dataset includes:
