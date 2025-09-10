@@ -1,5 +1,9 @@
 # Global COVID-19 Data Analysis
 
+## Live Streamlit App
+
+You can view the interactive Streamlit application online [here](https://covid-19-global-impact-analysis-kdt9d2n2mapprz64jyzum3m.streamlit.app)
+
 ## Project Structure
 ```
 COVID-19-Global-Impact-Analysis/
