@@ -8,10 +8,13 @@ You can view the interactive Streamlit application online [here](https://covid-1
 ```
 COVID-19-Global-Impact-Analysis/
 │
-├── COVID-19 Data Cleaning & Global Impact Analysis # Main analysis notebook
-├── README.md                                       # Project documentation
-├── app.py                                          # Streamlit dashboard  
-└── owid-covid-data.csv                             # Dataset
+├── screenshots                                           # Folder containing visualizations and charts
+├── COVID-19 Data Cleaning & Global Impact Analysis.ipynb # Main analysis notebook
+├── README.md                                             # Project documentation
+├── STREAMLIT_LOCAL_SETUP.md                              # Guide for running Streamlit locally
+├── app.py                                                # Streamlit dashboard  
+├── owid-covid-data.csv                                   # Dataset
+└── requirements.txt                                      # Python dependencies
 ```
 
 ## Tools
